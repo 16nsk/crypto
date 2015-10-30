@@ -1,0 +1,32 @@
+{
+  "name": "crypto-libraries",
+  "description": "Collection of cryptographic routines",
+  "main": [
+    "aes.js",
+    "aes-ctr.js",
+    "sha1.js",
+    "sha256.js",
+    "tea-block.js"
+  ],
+  "authors": [
+    "Chris Veness"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "aes",
+    "sha1",
+    "sha256",
+    "tea-block"
+  ],
+  "homepage": "https://github.com/chrisveness/crypto",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
